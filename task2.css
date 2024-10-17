@@ -1,0 +1,20 @@
+footer {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+h1 {
+  content: 50px, 100px;
+  background-color: rgb(215, 26, 149);
+}
+body {
+  padding: 0px;
+  margin-bottom: 10px;
+  background-color: rgb(101, 102, 0);
+}
+.button {
+  color: brown;
+  padding: 10px;
+  background-color: blue;
+}
+
+.button:hover {
+}
